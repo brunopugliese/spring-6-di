@@ -4,9 +4,6 @@ import guru.springframework.spring6di.services.GreetingService;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 
-/**
- * Created by jt, Spring Framework Guru.
- */
 @Controller
 public class Myi18NController {
 
