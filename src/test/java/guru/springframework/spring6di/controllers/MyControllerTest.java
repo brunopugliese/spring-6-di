@@ -8,10 +8,8 @@ class MyControllerTest {
 
     @Test
     void sayHello() {
-
         MyController myController = new MyController();
 
         System.out.println(myController.sayHello());
-
     }
 }
